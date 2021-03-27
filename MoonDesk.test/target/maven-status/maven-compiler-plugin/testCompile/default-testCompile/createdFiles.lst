@@ -1,0 +1,4 @@
+pages/PageLogin.class
+helpers/Helpers.class
+com/moondesk/test/UserTestSignUp.class
+com/moondesk/test/UserTestSignIn.class

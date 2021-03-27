@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-26T04:44:09Z" name="com.moondesk.test.UserTest" finished-at="2021-03-26T04:44:27Z" duration-ms="17995">
+    <groups>
+    </groups>
+    <test started-at="2021-03-26T04:44:09Z" name="Command line test" finished-at="2021-03-26T04:44:27Z" duration-ms="17995">
+      <class name="com.moondesk.test.UserTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:09Z" name="setUp" finished-at="2021-03-26T04:44:12Z" duration-ms="3202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidaccount()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:12Z" name="invalidaccount" finished-at="2021-03-26T04:44:13Z" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidaccount -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:13Z" name="setUp" finished-at="2021-03-26T04:44:15Z" duration-ms="2905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invaliddata()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:15Z" name="invaliddata" finished-at="2021-03-26T04:44:17Z" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaliddata -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:17Z" name="setUp" finished-at="2021-03-26T04:44:20Z" duration-ms="2923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:20Z" name="login" finished-at="2021-03-26T04:44:23Z" duration-ms="3210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:23Z" name="setUp" finished-at="2021-03-26T04:44:26Z" duration-ms="3291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="wrongpassword()[pri:0, instance:com.moondesk.test.UserTest@3b07a0d6]" started-at="2021-03-26T04:44:26Z" name="wrongpassword" finished-at="2021-03-26T04:44:27Z" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongpassword -->
+      </class> <!-- com.moondesk.test.UserTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.moondesk.test.UserTest -->
+</testng-results>
